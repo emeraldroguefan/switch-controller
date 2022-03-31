@@ -8,5 +8,5 @@ Home and Screenshot buttons are purely aesthetic.
 
 # How To Install
 Go to https://gamepadviewer.com/ and add the Xbox One Controller profile as a browser source on OBS.
-Paste the code from the downloadable text file in that source's Properties, on Custom CSS.
+Paste the code from the [last release](https://github.com/Leugitimo/switch-controller/releases) in that source's Properties, on Custom CSS.
 
